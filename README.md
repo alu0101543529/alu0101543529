@@ -123,6 +123,8 @@ Jajaja, casi te lo crees, ¿no?
 
 **[▶️ CLICK AQUÍ PARA JUGAR](https://github.com/alu0101543529/snake)**
 
+![Snake animation](https://raw.githubusercontent.com/alu0101543529/alu0101543529/output/github-snake-dark.svg)
+
 ---
 
 ## 🔐 CÓDIGO SECRETO: NIVEL 1

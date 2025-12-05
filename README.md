@@ -105,21 +105,9 @@ Jajaja, casi te lo crees, ¿no?
 
 ---
 
-## 🎮 MINI-JUEGO: Hackea Mi Perfil
+## 🎮 PIERDETIEMPO
 
-**¿Aburrido leyendo READMEs? ¡Juega Snake directo aquí!**
-
-```
-██████████████████████████████████████████
-█                                        █
-█    🐍 ← TÚ       🟢 Commits            █
-█                                        █
-█                  🔴 Bugs (evítalos)   █
-█                                        █
-█    Score: 0      High Score: ???      █
-█                                        █
-██████████████████████████████████████████
-```
+**¿Aburrido leyendo READMEs? ¡Mira mi snake come-commits!**
 ![Snake animation](https://raw.githubusercontent.com/alu0101543529/alu0101543529/output/github-snake-dark.svg)
 
 ---

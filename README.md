@@ -108,7 +108,7 @@ Jajaja, casi te lo crees, ¿no?
 ## 🎮 PIERDETIEMPO
 
 **¿Aburrido leyendo READMEs? ¡Mira mi snake come-commits!**
-![Snake animation](https://raw.githubusercontent.com/alu0101543529/alu0101543529/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/raul-glezz/raul-glezz/output/github-snake-dark.svg)
 
 ---
 
